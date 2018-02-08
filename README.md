@@ -9,6 +9,7 @@ Basic CRUD Application with methods built in to test Crud with front-end to back
 
 ** Fill in Methods in App.js to hit your endpoints and send the results to this.state.arr
 
+FORK and CLONE to get started
 
 Contains finished files for reference
 
