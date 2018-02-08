@@ -11,6 +11,8 @@ Basic CRUD Application with methods built in to test Crud with front-end to back
 
 FORK and CLONE to get started
 
+** Make sure to NPM Install
+
 Contains finished files for reference
 
 Feel free to leave any feedback!
