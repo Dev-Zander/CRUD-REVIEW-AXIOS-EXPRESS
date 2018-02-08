@@ -1,0 +1,21 @@
+.App {
+  margin-top: 15px;
+  text-align: center;
+}
+p {
+  float: right;
+}
+.form {
+  font-size: .5em;
+  margin: auto;
+}
+
+input {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+button {
+  width: 60%;
+  margin-bottom: 8px;
+  background: rgba(128, 128, 128, 0.276);
+}
